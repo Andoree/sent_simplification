@@ -6,7 +6,7 @@
 git clone https://github.com/feralvam/easse
 ```
 
-2. Replacing Sari script with the one from this repository (sari.py) so as to enable it to handle samples with varying number of references:
+2. Replacing Sari script with the one from this repository (sari.py) so as to enable it to handle samples with a varying number of references:
 ```
 cp sari.py $EASSE_DIR/easse
 ```
