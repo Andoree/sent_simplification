@@ -13,7 +13,7 @@ def main():
                         default=r"toloka_all/toloka_all_results_24-01.csv")
     parser.add_argument('--src_column', default="INPUT:source")
     parser.add_argument('--trg_column', default="OUTPUT:output")
-    parser.add_argument('--output_dataset_name', default="all")
+    parser.add_argument('--output_dataset_name', default="data")
     parser.add_argument('--output_dir', default="toloka_data_24.01_easse/")
     args = parser.parse_args()
 
