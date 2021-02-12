@@ -1,17 +1,17 @@
 # simplification_evaluation
 
-1. Clonning Easse:
+1. Clone Easse:
 
 ```
 git clone https://github.com/feralvam/easse
 ```
 
-2. Replacing Sari script with the one from this repository (sari.py) so as to enable it to handle samples with a varying number of references:
+2. Replace Sari script with the one from this repository (sari.py) so as to enable it to handle samples with a varying number of references:
 ```
 cp sari.py $EASSE_DIR/easse
 ```
 
-3. Installing EASSE:
+3. Install EASSE:
 ```
 cd $EASSE_DIR
 pip install .
