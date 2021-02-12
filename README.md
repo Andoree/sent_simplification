@@ -1,4 +1,4 @@
-# simplification_evaluation
+# Evaluation
 
 1. Clone Easse:
 
